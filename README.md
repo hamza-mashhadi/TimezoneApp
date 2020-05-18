@@ -24,8 +24,6 @@ A simple Laravel + Vue app to display time from db according to local user brows
 
 ## To Run Application
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
 - Run **npm run dev**
 - Run **php artisan serve**
 - visit 'http://127.0.0.1:8000'
