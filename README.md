@@ -15,7 +15,7 @@ A simple Laravel + Vue app to display time from db according to local user brows
 ## Install Notes
 
 **Inside project folder** 
-- copy .env.example to .env **cp .env.example .env**
+- copy .env.example to .env (**cp .env.example .env**)
 - change database information according to your local settings.
 - Run **npm install**
 - Run **composer install**
