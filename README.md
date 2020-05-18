@@ -1,0 +1,31 @@
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
+
+## About App
+
+A simple Laravel + Vue app to display time from db according to local user browser
+
+
+## Install Notes
+
+**Inside project folder** 
+- copy .env.example to .env **cp .env.example .env**
+- change database information according to your local settings.
+- Run **npm install**
+- Run **composer install**
+- Run **php artisan migrate**
+- Run **php artisan db:seed**
+
+## To Run Application
+
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
+- Run **npm run dev**
+- Run **php artisan serve**
+- visit 'http://127.0.0.1:8000'
